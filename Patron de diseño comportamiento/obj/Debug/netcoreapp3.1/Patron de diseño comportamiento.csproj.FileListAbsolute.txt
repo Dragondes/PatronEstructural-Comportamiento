@@ -1,0 +1,11 @@
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\Patron de diseño comportamiento\obj\Debug\netcoreapp3.1\Patron de diseño comportamiento.csprojAssemblyReference.cache
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\Patron de diseño comportamiento\obj\Debug\netcoreapp3.1\Patron de diseño comportamiento.AssemblyInfoInputs.cache
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\Patron de diseño comportamiento\obj\Debug\netcoreapp3.1\Patron de diseño comportamiento.AssemblyInfo.cs
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\Patron de diseño comportamiento\bin\Debug\netcoreapp3.1\Patron de diseño comportamiento.exe
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\Patron de diseño comportamiento\bin\Debug\netcoreapp3.1\Patron de diseño comportamiento.deps.json
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\Patron de diseño comportamiento\bin\Debug\netcoreapp3.1\Patron de diseño comportamiento.runtimeconfig.json
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\Patron de diseño comportamiento\bin\Debug\netcoreapp3.1\Patron de diseño comportamiento.runtimeconfig.dev.json
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\Patron de diseño comportamiento\bin\Debug\netcoreapp3.1\Patron de diseño comportamiento.dll
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\Patron de diseño comportamiento\bin\Debug\netcoreapp3.1\Patron de diseño comportamiento.pdb
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\Patron de diseño comportamiento\obj\Debug\netcoreapp3.1\Patron de diseño comportamiento.dll
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\Patron de diseño comportamiento\obj\Debug\netcoreapp3.1\Patron de diseño comportamiento.pdb
